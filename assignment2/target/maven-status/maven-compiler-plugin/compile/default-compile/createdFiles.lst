@@ -1,0 +1,15 @@
+edu/bu/metcs/HadoopEx/Task3$ReduceTaxiProfit.class
+edu/bu/metcs/HadoopEx/Task2$MapTaxiErrors.class
+edu/bu/metcs/HadoopEx/MapReduceTest$Reduce.class
+edu/bu/metcs/HadoopEx/Task2$MapTopFiveTaxi.class
+edu/bu/metcs/HadoopEx/Task3.class
+edu/bu/metcs/HadoopEx/MapReduceTest.class
+edu/bu/metcs/HadoopEx/Task2$ReduceTopFiveTaxi.class
+edu/bu/metcs/HadoopEx/MapReduceTest$Map.class
+edu/bu/metcs/HadoopEx/Task2$1.class
+edu/bu/metcs/HadoopEx/Task2.class
+edu/bu/metcs/HadoopEx/Task3$MapTaxiProfit.class
+edu/bu/metcs/HadoopEx/Task3$1.class
+edu/bu/metcs/HadoopEx/Task3$ReduceTopTenTaxi.class
+edu/bu/metcs/HadoopEx/Task3$MapTopTenTaxi.class
+edu/bu/metcs/HadoopEx/Task2$ReduceTaxiErrors.class
