@@ -23,13 +23,13 @@ if __name__ == "__main__":
 
     # This configuration is needed to run locally. 
     # Remember to comment them off when running on AWS EMR
-    conf = SparkConf().setAppName("Task3")
-    conf = (conf.setMaster('local[*]')
-	    .set('spark.executor.memory', '4G')
-	    .set('spark.driver.memory', '4G')
-	    .set('spark.driver.maxResultSize', '5G'))
-    sc = SparkContext(conf=conf)
-    # sc = SparkContext ( appName="Task2" )
+    # conf = SparkConf().setAppName("Task3")
+    # conf = (conf.setMaster('local[*]')
+    #	    .set('spark.executor.memory', '4G')
+    #	    .set('spark.driver.memory', '4G')
+    #	    .set('spark.driver.maxResultSize', '5G'))
+    # sc = SparkContext(conf=conf)
+    sc = SparkContext ( appName="Task3" )
     sqlContext = SQLContext(sc)
     sc_lines = sc.textFile(sys.argv[1],1) 
     columns  = sc_lines.map(lambda x: x.split(','))
