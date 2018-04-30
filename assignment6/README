@@ -1,0 +1,35 @@
+The following is the list of top users talking about data right now. 
+
+-------------------------------------------                                     
+Time: 2018-04-29 20:16:10
+-------------------------------------------
+(u'Telkomsel', 141222369)
+(u'Montreal_AI', 14824950)
+(u'MicrosoftHelps', 10633680)
+(u'bisping', 6880455)
+(u'LibraryJournal', 6188940)
+(u'CMichaelGibson', 5975460)
+(u'LuisAlvarez_1', 5148420)
+(u'Docker', 4292460)
+(u'VZWSupport', 3641190)
+(u'bdnews24', 3364590)
+(u'AtlBizChron', 3105390)
+(u'requiaopmdb', 2956710)
+(u'KirkDBorne', 2921220)
+(u'FitbitSupport', 2763540)
+(u'YourMarkLubbers', 2350470)
+(u'MattWalshBlog', 2205705)
+(u'LotusOak', 2127990)
+(u'ClarkHoward', 2068725)
+(u'AlertTrade', 1998675)
+(u'impedimento', 1991190)
+...
+
+[Stage 0:>                                                          (0 + 1) / 1]^C
+... 
+KeyboardInterrupt
+
+real	24m20.297s
+user	0m11.510s
+sys	0m2.735s
+
